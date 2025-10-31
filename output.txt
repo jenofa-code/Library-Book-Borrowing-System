@@ -1,0 +1,108 @@
+========== Library Book Borrowing System ==========
+Select Department:
+1. Computer Science
+2. Mechanical
+3. Electronics
+4. Exit
+Enter choice: 1
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 1
+Enter Student ID: 1001
+Enter Book ID: 218
+Enter Book Title: Data Structure
+Enter Date of Issue (DD-MM-YYYY): 29-10-2025
+
+✅ Book issued successfully!
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 3
+Enter Student ID to search: 1001
+
+Book ID: 218 | Title: Data Structure | Date of Issue: 29-10-2025
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 4
+
+📚 Borrowing History:
+---------------------------------------------
+Student ID: 1001 | Book ID: 218 | Title: Data Structure | Date: 29-10-2025
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 6
+
+Total books borrowed: 1
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 1
+Enter Student ID: 1004
+Enter Book ID: 2015
+Enter Book Title: Wings Of Fire
+Enter Date of Issue (DD-MM-YYYY): 19-04-2025
+
+✅ Book issued successfully!
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 6
+
+Total books borrowed: 2
+
+------ Department Menu ------
+1. Issue New Book
+2. Return Book
+3. Search Borrowed Book
+4. Display Borrowing History
+5. Clone Borrowing History
+6. Count Total Books Borrowed
+7. Back to Department Menu
+Enter choice: 7
+
+========== Library Book Borrowing System ==========
+Select Department:
+1. Computer Science
+2. Mechanical
+3. Electronics
+4. Exit
+Enter choice:
